@@ -1,1 +1,1 @@
-# c-178-mapbox
+# PRO-C178-Boilerplate
